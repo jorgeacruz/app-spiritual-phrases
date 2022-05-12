@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Hrocket",
+    "slug": "Hrocket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Hrocket"
+}
