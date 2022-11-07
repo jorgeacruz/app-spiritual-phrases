@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.Frases {
+    font-style: italic;
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    color: black;
+}
+.img {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+.botaoFrase{
+    background-color: bisque
+}
